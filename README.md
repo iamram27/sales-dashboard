@@ -1,6 +1,8 @@
 # sales-dashboard
 
 1) Sales Analysis -- (Explanation)
+
+
 🔹 1. Problem Statement
 
 "The company wanted to understand sales performance across products, regions, customers, and time so they can improve revenue and forecasting."
